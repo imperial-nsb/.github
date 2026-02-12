@@ -1,5 +1,3 @@
-# Noninvasive Surgery & Biopsy Laboratory
-
 We are a noninvasive technologies laboratory, building devices that can manipulate and sense tissue from the surface. We are focussed in two research areas:
     
 * Noninvasive Microsurgery for Brain Drug Delivery
